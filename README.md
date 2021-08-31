@@ -32,7 +32,7 @@ To get set up:
 
 - Hold the starships in state.
 
-- You API call will need to go in a `useEffect` hook.
+- You API call will need to go in a `componentDidMount` lifecycle method.
 
 ## Bonus
 
